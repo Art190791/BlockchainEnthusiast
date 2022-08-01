@@ -602,3 +602,4 @@ Enthusiast 600 !
 Enthusiast 601 !
 Enthusiast 602 !
 Enthusiast 603 !
+Enthusiast 604 !
