@@ -505,3 +505,4 @@ Enthusiast 503 !
 Enthusiast 504 !
 Enthusiast 505 !
 Enthusiast 506 !
+Enthusiast 507 !
