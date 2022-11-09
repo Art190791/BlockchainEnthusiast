@@ -502,3 +502,4 @@ Enthusiast 500 !
 Enthusiast 501 !
 Enthusiast 502 !
 Enthusiast 503 !
+Enthusiast 504 !
