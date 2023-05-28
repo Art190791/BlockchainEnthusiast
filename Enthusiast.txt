@@ -302,3 +302,4 @@ Enthusiast 300 !
 Enthusiast 301 !
 Enthusiast 302 !
 Enthusiast 303 !
+Enthusiast 304 !
